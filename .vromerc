@@ -1,5 +1,4 @@
-
 " Remove key mapping in normal mode
-unmap <C-f>
+unmap <C-d>
 
 
